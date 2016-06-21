@@ -1,2 +1,6 @@
 alteracoes jose dias
+<<<<<<< HEAD
 segunda alteração.
+=======
+Alteração Pinheiro
+>>>>>>> dccf74ef6a1cf71b2a7edbc91dcdb02b7f7adb64
